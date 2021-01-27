@@ -8,21 +8,17 @@
 This is the first and only *individual* (as opposed to *team*) this semester. 
 
 
+
 Term: Spring 2021
 
 + Project title: Study the ways of people knowing about and getting involved in election campaigns
 + This project is conducted by Zhihang Xia
 
 + Project summary: 
-1.In general, watching TV > listening to radio programs > participating in activities > reading magazine.(Here, ">" means "is more popular than")
-
-2.Participating in activities is more popular among younger people, but more and more people are willing to choose this way with year.
-
-3.Watching TV has been the most popular way for people of all ages after the the prevalence of TV.
-
-4.Listening to radio programs was the most popular way for people of all ages, but then was overtaken by watching TV after the the prevalence of TV.
-
-5.Reading magazines is a more popular way among young people, and and it has never been a popular way in all age groups.
+I will explore the ways of people participating in election campaigns, and how years and their ages affect their choices.
+I will answer two questions to explore the data:
+1.Generally, in which way would people like to get involved in election campaigns?
+2.How do people of different ages engage in election campaigns in different years?
 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
