@@ -10,7 +10,7 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Spring 2021
 
-+ Projec title: Study the ways of people knowing about and getting involved in election campaigns
++ Project title: Study the ways of people knowing about and getting involved in election campaigns
 + This project is conducted by Zhihang Xia
 
 + Project summary: 
