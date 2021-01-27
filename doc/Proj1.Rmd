@@ -7,7 +7,7 @@ In the introduction file, we analyzed the relationship between racial groups and
 ```{r, echo=false}
 library(haven)
 anes_dat <-
-    read_sav("C:/Columbia University/GR5243/Project1-zx2338/data/anes_timeseries_cdf.sav")
+    read_sav("C:/Columbia University/GR5243/Spring2021-Project1-zx2338/data/anes_timeseries_cdf.sav")
 ```
 
 
@@ -35,7 +35,7 @@ data.table(anes_use%>%
 
 
 anes_use <- anes_use%>%select(year, age, activity, tv, radio, read)
-save(anes_use, file="C:/Columbia University/GR5243/Project1-zx2338/output/data_use.RData")
+save(anes_use, file="C:/Columbia University/GR5243/Spring2021-Project1-zx2338/output/data_use.RData")
 ```
 
 
@@ -157,11 +157,11 @@ ggplot(anes_read_age_year, aes(x=year, y=prop, fill=read)) +
 # Summary
 1.In general, watching TV > listening to radio programs > participating in activities > reading magazine.(Here, ">" means "is more popular than")
 
-1.Participating in activities is more popular among younger people, but more and more people are willing to choose this way with year.
+2.Participating in activities is more popular among younger people, but more and more people are willing to choose this way with year.
 
-2.Watching TV has been the most popular way for people of all ages after the the prevalence of TV.
+3.Watching TV has been the most popular way for people of all ages after the the prevalence of TV.
 
-3.Listening to radio programs was the most popular way for people of all ages, but then was overtaken by watching TV after the the prevalence of TV.
+4.Listening to radio programs was the most popular way for people of all ages, but then was overtaken by watching TV after the the prevalence of TV.
 
-4.Reading magazines is a more popular way among young people, and and it has never been a popular way in all age groups.
+5.Reading magazines is a more popular way among young people, and and it has never been a popular way in all age groups.
 
