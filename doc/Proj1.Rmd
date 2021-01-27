@@ -1,6 +1,8 @@
 ---
 title: "Study the ways of people knowing about and getting involved in election campaigns"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 In the introduction file, we analyzed the relationship between racial groups and voting preference. In this R notebook, I would like to study the ways of people engaging in election campaigns. I use data of election surveys from American National Election Studies (ANES). The raw data has over thousand columns, and I clean the data by choosing and renaming 6 of them. Here is a sample of my cleaned data.
