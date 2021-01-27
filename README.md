@@ -7,12 +7,23 @@
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) this semester. 
 
+
 Term: Spring 2021
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Project title: Study the ways of people knowing about and getting involved in election campaigns
++ This project is conducted by Zhihang Xia
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: 
+1.In general, watching TV > listening to radio programs > participating in activities > reading magazine.(Here, ">" means "is more popular than")
+
+2.Participating in activities is more popular among younger people, but more and more people are willing to choose this way with year.
+
+3.Watching TV has been the most popular way for people of all ages after the the prevalence of TV.
+
+4.Listening to radio programs was the most popular way for people of all ages, but then was overtaken by watching TV after the the prevalence of TV.
+
+5.Reading magazines is a more popular way among young people, and and it has never been a popular way in all age groups.
+
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
